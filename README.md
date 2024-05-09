@@ -15,3 +15,5 @@ The front plate is essentially what holds everything together, based on the g2e 
 this design is kinda meh, feel free to take it and make something superior 👍
 
 FYI the window to the drive gear opposite the idler is for you to stick a toothbrush in when you turn your filament into dust lol
+
+![image](https://github.com/Okanoa/micro-cosm/assets/50339762/f8ce111c-bcae-4e6e-8ae4-a4e3fbe3acb2)
